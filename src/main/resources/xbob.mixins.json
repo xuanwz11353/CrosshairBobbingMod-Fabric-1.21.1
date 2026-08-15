@@ -1,0 +1,17 @@
+{
+    "required": true,
+    "minVersion": "0.8.5",
+    "package": "krash220.xbob.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "client": [
+        "CameraAccessor",
+        "GameRendererAccessor",
+        "ItemInHandRendererAccessor",
+        "LivingEntityAccessor",
+        "LivingEntityMixin",
+        "MultiPlayerGameModeMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

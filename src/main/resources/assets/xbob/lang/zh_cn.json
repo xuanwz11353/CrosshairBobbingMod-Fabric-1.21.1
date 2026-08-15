@@ -1,0 +1,13 @@
+{
+    "xbob.config.title": "准星晃动配置",
+    "xbob.config.bob": "跟随视角摇晃",
+    "xbob.config.sneak": "潜行动画",
+    "xbob.config.item": "切换物品动画",
+    "xbob.config.aim": "瞄准动画",
+    "xbob.config.spear": "三叉戟动画",
+    "xbob.config.xbow": "弩动画",
+    "xbob.config.eat": "吃东西动画",
+    "xbob.config.atk": "攻击动画",
+    "xbob.config.value.enable": "启用",
+    "xbob.config.value.disable": "禁用"
+}

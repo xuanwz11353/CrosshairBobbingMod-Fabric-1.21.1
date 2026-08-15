@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GPL-3.0"
+issueTrackerURL="https://github.com/xuanwz11353/CrosshairBobbingMod-Fabric-1.21.1"
+
+[[mixins]]
+config="xbob.mixins.json"
+
+[[mods]]
+modId="xbob"
+version="${file.jarVersion}"
+displayName="Crosshair Bobbing Remake"
+description='''Make the crosshair follows the view bobbing.'''
+authors="Krash220, xuanwz_11353"
+displayURL="https://github.com/xuanwz11353/CrosshairBobbingMod-Fabric-1.21.1"
+
+[[dependencies.xbob]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.xbob]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="CLIENT"
