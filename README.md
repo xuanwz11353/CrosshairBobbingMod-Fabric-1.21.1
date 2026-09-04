@@ -2,6 +2,8 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+[![CurseForge Downloads](https://img.shields.io/badge/CurseForge-下载-orange?style=flat&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/crosshairbobbingmod) | [![Modrinth Downloads](https://img.shields.io/badge/Modrinth-下载-green?style=flat&logo=modrinth)](https://modrinth.com/mod/crosshairbobbingmod)
+
 本仓库是基于 [Krash220/CrosshairBobbingMod](https://github.com/Krash220/CrosshairBobbingMod) 的 **Minecraft 1.21.1** 重铸版本。原模组采用 **GNU General Public License v3.0**，本重铸版同样继承该许可证。
 
 根据 GPLv3 的要求：
